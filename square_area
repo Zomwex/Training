@@ -1,0 +1,8 @@
+#yznaem ploshad pryamoygolnika
+
+
+def area(a,b):
+  return a * b
+
+c = area(3,3)
+print(str(c) + " v kvadrate")
